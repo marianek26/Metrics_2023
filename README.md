@@ -1,5 +1,7 @@
 # <p align="center">Metrics_2023</p>
-🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄
+<p align="center">✨✨✨✨✨<a href="https://www.youtube.com/watch?v=sewFjYlgb3s" target="_blank">Наше вдохновение</a>✨✨✨✨✨</p>
+
+🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄
 #### <p align="center">Наша команда:</p>
 <p align="center">Серочкин Егор </p>
 <p align="center"> Некрасова Мария </p>
