@@ -14,7 +14,7 @@
 ##  В файле <a href="https://github.com/marianek26/Metrics_2023/blob/main/data0.csv" target="_blank">"data0"</a> лежат исходные данные.
 ##  В файле <a href="https://github.com/marianek26/Metrics_2023/blob/main/data1.csv" target="_blank">"data1"</a> лежат обработанные данные.
 ##  В файле <a href="https://github.com/marianek26/Metrics_2023/blob/main/текст%20проект.docx" target="_blank">"текст проекта"</a> мы описали весь процесс работы от актуальности темы до оценки моделей.
-
+##  В файле <a href="https://github.com/marianek26/Metrics_2023/blob/main/data1.csv" target="_blank">"код"</a> лежит наш код на R.
 
 ## Небольшой экскурс по нашим данным!
  ### <li> Зависимая переменная: </li>
